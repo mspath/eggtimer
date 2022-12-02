@@ -21,7 +21,7 @@ Environment
 ```
 language: kotlin
 repo: eggtimer
-status: private archived
+status: archived
 updated: 2022-12-02
 ```
 
