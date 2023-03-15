@@ -12,9 +12,9 @@ the notifications need to be refactored for target above 30 so let's leave them 
 
 Environment
 
-- Kotlin 1.7.20
-- Android Studio Dolphin 2021.3.1
-- Gradle Plugin 7.3.1
+- Kotlin 1.8.0
+- Android Studio Electric Eel 2022.1.1
+- Gradle Plugin 7.4.2
 
 ---
 
@@ -22,7 +22,7 @@ Environment
 language: kotlin
 repo: eggtimer
 status: archived
-updated: 2022-12-02
+updated: 2023-03-15
 ```
 
 
